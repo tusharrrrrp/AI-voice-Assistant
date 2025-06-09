@@ -43,8 +43,8 @@ All metrics are automatically saved to `~/Desktop/metrics_log.xlsx` for analysis
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd livekit-voice-agent
+   git clone https://github.com/tusharrrrrp/AI-voice-Assistant.git
+   cd AI-voice-Assistant
    ```
 
 2. **Install dependencies**:
@@ -67,7 +67,7 @@ All metrics are automatically saved to `~/Desktop/metrics_log.xlsx` for analysis
 
 1. **Start the voice agent**:
    ```bash
-   python voice_agent.py
+   python agent.py dev
    ```
 
 2. **Connect to the room**: The agent will automatically connect to LiveKit rooms and wait for participants.
@@ -156,4 +156,3 @@ For support and questions:
 
 ---
 
-**Note**: This is a development version. For production deployment, consider additional security measures, monitoring, and scaling configurations.

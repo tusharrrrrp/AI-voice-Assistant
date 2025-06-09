@@ -32,7 +32,7 @@ All metrics are automatically saved to `~/Desktop/metrics_log.xlsx` for analysis
 
 ## Prerequisites
 
-- Python 3.8+
+- Python 3.9+
 - LiveKit account and API credentials
 - API keys for:
   - Deepgram (STT)

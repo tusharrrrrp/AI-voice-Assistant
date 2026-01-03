@@ -1,4 +1,4 @@
-# LiveKit Voice Agent with Metrics Logging
+# Voice Agent 
 
 A production-ready voice assistant built with LiveKit that features real-time speech-to-text, LLM processing, text-to-speech, and comprehensive performance metrics tracking.
 
@@ -153,6 +153,6 @@ For support and questions:
 - Check the [LiveKit documentation](https://docs.livekit.io/)
 - Review debug logs for error details
 - Open an issue in this repository
-
+- Check the Full Working of the Agent [Video Link](https://drive.google.com/file/d/1kFSCJf_0Grd-OLQZZCS67Hsamy4P9VJA/view?usp=drive_link)
 ---
 
